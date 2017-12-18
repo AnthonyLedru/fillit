@@ -18,5 +18,4 @@ AFFCEE
 A.FFGG
 HHHDDG
 .HDD.G
-
 ```
