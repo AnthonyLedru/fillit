@@ -5,7 +5,9 @@ Form the smallest possible square from a list of tetriminos.
 Run `make` command and an executable called `fillit` should be created.
 
 ## Usage
-`./fillit [file]`
+```
+./fillit [file]
+```
 
 ## Examples
 
