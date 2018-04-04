@@ -35,7 +35,8 @@ $(NAME): $(SRCO)
 clean:
 	rm -f $(SRCO)
 
-fclean: clean
+fclean: 
+	make clean
 	rm -f $(NAME)
 
 re: 
