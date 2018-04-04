@@ -9,7 +9,7 @@ Run `make` command and an executable called `fillit` should be created.
 ./fillit [file]
 ```
 
-## Examples
+## Example
 
 ```
 ./fillit test_file
